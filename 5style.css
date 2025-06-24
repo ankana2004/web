@@ -1,0 +1,49 @@
+/*color css*/
+.brand-color{
+    color:orangered !important;
+}
+.secondary-color{
+    color:gold;
+}
+.secondary-color:hover{
+    background-color:gold;
+    color:black;
+}
+/*text decoration*/
+.bold-text{
+font-weight:800;
+}
+.big-text1{
+font-size:3rem;
+}
+.big-text2{
+font-size:2.5rem;
+}
+.big-text3{
+font-size:1.5rem;
+}
+
+.rounded-box{
+    border-radius:50px;
+}
+.mg-right-15{
+    margin-right: 15px;
+}
+.mg-left-15{
+    margin-left:15px;
+}
+
+.car-img
+{
+    height: 200px;
+    width: 100%;
+    justify-items: center;
+    
+}
+
+.car-div
+{
+    
+    align-items: center;
+
+}
